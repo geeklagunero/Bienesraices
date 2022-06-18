@@ -1,0 +1,25 @@
+{
+  "name": "bienesraices",
+  "version": "1.0.0",
+  "description": "mi primer proyecto de nodejs",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "keywords": [
+    "MVC",
+    "Pug",
+    "tailwind",
+    "mysl"
+  ],
+  "author": "Ricardo Roman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
